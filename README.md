@@ -19,11 +19,14 @@ Currently focused on learning web development.
 ### Stuff that I'm learning and working with:
 - ⚙️Javascript, HTML, CSS, Node, React, JQuery, Figma, Information security
 
-- 🏢 Working at <a href="https://sejaalphaedtech.org.br">Alpha EdTech</a>
+- 💻 Working at <a href="https://sejaalphaedtech.org.br">Alpha EdTech</a>
 
 
 
 <p align="center">    <img src="https://github-readme-stats.vercel.app/api?username=felipe-seo&show_icons=true&theme=highcontrast" /> </p>
 
          
-🍕 🖥️ 🍣 🐈 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/52228027/122183906-12a74100-ce62-11eb-8fa7-42055d233903.gif"/>
+</p>
