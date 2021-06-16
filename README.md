@@ -11,7 +11,7 @@ My name is Felipe and I'm a computer enthusiast ever since I first played with o
 - Debian;
 - Nagios;  
 - Cisco Switches;
-- Mikrotik router boards;
+- Mikrotik router boards.
   
   
 Currently focused on learning web development.
