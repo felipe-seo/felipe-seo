@@ -1,16 +1,29 @@
-### Hi there 👋
+# 🦆 Hello!
 
-<!--
-**felipe-seo/felipe-seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Felipe and I'm a computer enthusiast ever since I first played with one back in 1998.
 
-Here are some ideas to get you started:
+### About me
+- 5 years of experience as an IT technician.
+- Some of the technologies I have worked with:
+- Windows Server;
+- CentOS;
+- Ubuntu;
+- Debian;
+- Nagios;  
+- Cisco Switches;
+- Mikrotik router boards;
+  
+  
+Currently focused on learning web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stuff that I'm learning and working with:
+- ⚙️Javascript, HTML, CSS, Node, React, JQuery, Figma, Information security
+
+- 🏢 Working at <a href="https://sejaalphaedtech.org.br">Alpha EdTech</a>
+
+
+
+<p align="center">    <img src="https://github-readme-stats.vercel.app/api?username=felipe-seo&show_icons=true&theme=highcontrast" /> </p>
+
+         
+🍕 🖥️ 🍣 🐈 
