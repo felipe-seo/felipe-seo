@@ -17,7 +17,7 @@ My name is Felipe and I'm a computer enthusiast ever since I first played with o
 Currently focused on learning web development.
 
 ### Stuff that I'm learning and working with:
-- ⚙️Javascript, HTML, CSS, Node, React, JQuery, Figma, Information security
+- ⚙️Javascript, HTML, CSS, Node, React, JQuery, Figma, Cybersecurity
 
 - 💻 Working at <a href="https://sejaalphaedtech.org.br">Alpha EdTech</a>
 
