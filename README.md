@@ -2,6 +2,8 @@
 
 My name is Felipe and I'm a computer enthusiast ever since I first played with one back in 1998.
 
+- 💻 Working at <a href="https://sejaalphaedtech.org.br">Alpha EdTech</a>
+
 ### About me
 - 5 years of experience as an IT technician.
 - Some of the technologies I have worked with:
@@ -13,7 +15,7 @@ My name is Felipe and I'm a computer enthusiast ever since I first played with o
 - Cisco Switches;
 - Mikrotik router boards.
   
- - 💻 Working at <a href="https://sejaalphaedtech.org.br">Alpha EdTech</a>
+ 
   
 Currently focused on learning web development.
 
