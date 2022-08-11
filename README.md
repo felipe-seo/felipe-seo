@@ -29,6 +29,3 @@ Currently focused on learning web development.
 
          
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/52228027/122183906-12a74100-ce62-11eb-8fa7-42055d233903.gif"/>
-</p>
